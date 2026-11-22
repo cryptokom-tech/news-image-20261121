@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """news-image-20261121 entry: write the front-page image to the output.
 
-The image (entry.png, 1024x1024, 200,261 bytes) sums up Saturday
-21 November 2026's world news: 36 numbered stories from six
-continents, a dotted world map with a numbered pin per story, and a
-red banner naming the day. It was drawn by the build script in the
-work session and is bundled here.
+The image (entry.png, 1024x1024, 208,595 bytes) sums up Saturday
+21 November 2026's world news — the full-day final edition: 36
+numbered stories from six continents, a dotted world map with a
+numbered pin per story, and a red banner naming the day. It was drawn
+by the build script in the work session and is bundled here.
 
 This program only copies the bundled image to the output path,
 verifying it first. Standard library only, no network, and every run

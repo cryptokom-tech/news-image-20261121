@@ -13,13 +13,16 @@ the image alone.
 
 ## The stories
 
-The morning edition, researched across 21 November 2026 from the AP
-wire, Reuters, Jagran Josh, Observer Voice, OneTurn and other digests
-— only events that happened, or were first reported, on 21 November
-2026. Leading stories: Wall Street slides into correction (S&P 500
--3.7%, Nasdaq -5%+), the overnight strike on Kryvyi Rih, the Saudi
-coalition's strikes on Hodeidah, Pakistan's first Test series win in
-two years, and the EU's nearly €8 billion payment to Ukraine.
+The full-day final edition, researched across the whole of
+21 November 2026 from the AP wire, Reuters, BBC, CNN, Al Jazeera,
+the Guardian, NPR, France 24 and other digests — only events that
+happened, or were first reported, on 21 November 2026. Leading
+stories: Iran strikes US bases in Bahrain, Mexico captures
+'El Chapo Isidro', Wall Street slides into correction (S&P 500
+-3.7%, Nasdaq erases its 2026 gains), the claimed AI-assisted
+proof of the Riemann hypothesis, the FBI crime database hack,
+COP31 running into overtime with fossil fuels written out, and
+Bitcoin bouncing back above $60,000.
 
 ## The program
 
